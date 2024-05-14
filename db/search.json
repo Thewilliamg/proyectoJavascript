@@ -1,0 +1,2743 @@
+{
+    "albums": {
+        "totalCount": 891,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:album:1rVhockt4RAiZFaK3M3zPB",
+                    "name": "No Jacket Required (2016 Remaster)",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:4lxfqrEsLX6N1N4OCSkILp",
+                                "profile": {
+                                    "name": "Phil Collins"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02441084621edb7c53ef303090",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851441084621edb7c53ef303090",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273441084621edb7c53ef303090",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 1985
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:1f6C0igNf8jtwASukoTF6I",
+                    "name": "request",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:35jRIUtWCUITFLfjhYwkFx",
+                                "profile": {
+                                    "name": "krage"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02929e3211dc20f24a5867931c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851929e3211dc20f24a5867931c",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273929e3211dc20f24a5867931c",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2024
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:1BfsguAoCdETVpPHGs1ake",
+                    "name": "Required",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:7Gfs4JCMsF4pVDKWYXBqln",
+                                "profile": {
+                                    "name": "Marty O'Shiel"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e028e4426bbd1edec39a43ff7a9",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d000048518e4426bbd1edec39a43ff7a9",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2738e4426bbd1edec39a43ff7a9",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2022
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:7avlHipAwnKsxcXwC9Wpin",
+                    "name": "No Jacket Required (Deluxe Edition)",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:4lxfqrEsLX6N1N4OCSkILp",
+                                "profile": {
+                                    "name": "Phil Collins"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0257480be4ce4fd7659a25b7d9",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485157480be4ce4fd7659a25b7d9",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27357480be4ce4fd7659a25b7d9",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 1985
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:21Y2KDAvmbyaENzKIeO2Lj",
+                    "name": "REQUIEM",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:3Z2tyxT1pjQnZtkwGQngi6",
+                                "profile": {
+                                    "name": "ROMANTICA"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0216b2f50434857bd68a37d7fd",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485116b2f50434857bd68a37d7fd",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27316b2f50434857bd68a37d7fd",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2023
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:5gxL1YPTDUtyUG2Qp3wVO0",
+                    "name": "Required Etiquette Vol. 1",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of",
+                                "profile": {
+                                    "name": "Various Artists"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023f494786d82cc0f20a452dbe",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513f494786d82cc0f20a452dbe",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733f494786d82cc0f20a452dbe",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2014
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:0BbeoTXqQv0qKki6CDcznI",
+                    "name": "Disassembly Required (Teaser Original Soundtrack)",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:0yXeAQirPMVzAlhxGvux1s",
+                                "profile": {
+                                    "name": "Liam Vickers"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0226cf2e2751ee0aec2cf62479",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485126cf2e2751ee0aec2cf62479",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27326cf2e2751ee0aec2cf62479",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2021
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:0ICbdWjT2vlQVIwvjVvU6l",
+                    "name": "Requiem for Pluto",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:7tQfGq1cmYQtZwNKs6Cq8b",
+                                "profile": {
+                                    "name": "Anders Schill Paulsen"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0241c028d3f158be6a1fcbce59",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485141c028d3f158be6a1fcbce59",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27341c028d3f158be6a1fcbce59",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2024
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:53aQdegVPKq4MgSGgCQuLz",
+                    "name": "No Faith Required",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:4DMlDJn7CPSSS0DuUf1vrH",
+                                "profile": {
+                                    "name": "Snowy White"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:5zRIFTHDQwGWKZ7z61fFKb",
+                                "profile": {
+                                    "name": "The White Flames"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02c3e11f275c54926f5bfcb411",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851c3e11f275c54926f5bfcb411",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273c3e11f275c54926f5bfcb411",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 1996
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:1cNI5bMJk11DV8PglRAd3R",
+                    "name": "Requiem",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:1fd3fmwlhrDl2U5wbbPQYN",
+                                "profile": {
+                                    "name": "Apashe"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e026e9cba73e17558eabbe6c5b0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d000048516e9cba73e17558eabbe6c5b0",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2736e9cba73e17558eabbe6c5b0",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2018
+                    }
+                }
+            }
+        ]
+    },
+    "artists": {
+        "totalCount": 46,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:artist:1g05P4Ua1FzC0cQxSlgmyu",
+                    "profile": {
+                        "name": "Required"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000e5ebebf3e7887f3a03ae10f4c8d3",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000f178ebf3e7887f3a03ae10f4c8d3",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616100005174ebf3e7887f3a03ae10f4c8d3",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:1dzhL0wTs2Skw8ZI6IuiMl",
+                    "profile": {
+                        "name": "requi3m"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000e5eba062df2e625a6bbaa9c71bca",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000f178a062df2e625a6bbaa9c71bca",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616100005174a062df2e625a6bbaa9c71bca",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:2FikzP9y7jVNqwpMgvyxnk",
+                    "profile": {
+                        "name": "Assembly Required"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000e5eb4cbc0b4529e9795a45a7ffe2",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000f1784cbc0b4529e9795a45a7ffe2",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab676161000051744cbc0b4529e9795a45a7ffe2",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:1WyNDPgmY1RsC2TAkrnhAe",
+                    "profile": {
+                        "name": "Requesting"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000e5ebb6c3a59cc0b06ec382f6ec6a",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000f178b6c3a59cc0b06ec382f6ec6a",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616100005174b6c3a59cc0b06ec382f6ec6a",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:4C2vxz7RaHdh9A97EA4NEp",
+                    "profile": {
+                        "name": "Required for Entry"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000e5eb49f6cfb7fc3162bd3024683a",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000f17849f6cfb7fc3162bd3024683a",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000517449f6cfb7fc3162bd3024683a",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:2wNYw9h0N78tk6nR0F0aQ4",
+                    "profile": {
+                        "name": "The Requiem"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000e5eb192dcca17f60ac04701f5ebb",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000f178192dcca17f60ac04701f5ebb",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616100005174192dcca17f60ac04701f5ebb",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:5aMchwE5nShi2mOZdSGAGA",
+                    "profile": {
+                        "name": "no musician required"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000e5eb618325dbf528c32edd93e188",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000f178618325dbf528c32edd93e188",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616100005174618325dbf528c32edd93e188",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:0AVDrFPDLiiQptdtfPevzg",
+                    "profile": {
+                        "name": "Requiem Inc."
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273c48336cad98250b35b4412e3",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851c48336cad98250b35b4412e3",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02c48336cad98250b35b4412e3",
+                                    "width": 300,
+                                    "height": 300
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:0NfFOMNPY9Ouwm62UjFFNM",
+                    "profile": {
+                        "name": "Lamps Required"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000e5eb8d2f95c42cc362e0b3fba49e",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000f1788d2f95c42cc362e0b3fba49e",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab676161000051748d2f95c42cc362e0b3fba49e",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:5hG62180EypzUbgvWrvW1w",
+                    "profile": {
+                        "name": "REQUiRE"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000e5ebf578d2482ebc72ba4b9f8baa",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000f178f578d2482ebc72ba4b9f8baa",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616100005174f578d2482ebc72ba4b9f8baa",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    "episodes": {
+        "totalCount": 1000,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:episode:6lgfrqAIUbDjmxIAEO0xA5",
+                    "name": "131: Renovations Required..",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d939165ac5f26cb0bfdf7f597",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f939165ac5f26cb0bfdf7f597",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a939165ac5f26cb0bfdf7f597",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 7446720
+                    },
+                    "releaseDate": {
+                        "isoString": "2023-09-07T08:57:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d939165ac5f26cb0bfdf7f597",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f939165ac5f26cb0bfdf7f597",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a939165ac5f26cb0bfdf7f597",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Two Hot Takes host, Morgan, is joined by guest co-host Justin! Our personal home renovation challenges have us embracing this theme full of stories where \"renovations\" need to occur. From bats in cabins to getting kicked out of the marital home this one is full of twists and turns. Can't wait to hear your takes!  Spotify Masterclass I was on: https:\/\/podcasters.spotify.com\/resources\/news\/video\/masterclass-fan-engagement  Bonus Content on Patreon: https:\/\/www.patreon.com\/TwoHotTakes Our PO Box!! Two Hot Takes. 5042 Wilshire BLVD. #470. Los Angeles, CA 90036  Our SubReddit to Submit YOUR Stories!!! https:\/\/reddit.app.link\/twohottakes Full length Video episodes available on YouTube: https:\/\/www.youtube.com\/c\/TwoHotTakes  Partners: Zocdoc: zocdoc.com\/tht Babbel: Babbel.com\/tht NextEvo: NextEvo.com\/THT HelloFresh: Hellofresh.com\/50tht Promo Code: 50tht",
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:5lx1yO37VznrDkF7PDXBD1",
+                    "name": "REQUEST more couples tiktoks",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68dcb2f589424330d067eef4da5",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcb2f589424330d067eef4da5",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8acb2f589424330d067eef4da5",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 906878
+                    },
+                    "releaseDate": {
+                        "isoString": "2023-10-31T18:49:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68dcb2f589424330d067eef4da5",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcb2f589424330d067eef4da5",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8acb2f589424330d067eef4da5",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "hope you enjoy   ---   Send in a voice message: https:\/\/podcasters.spotify.com\/pod\/show\/darya50\/message",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:7211NY1BSu1CjO5TtnQ09S",
+                    "name": "WHATEVER IS REQUIRED",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68da0f96d9823ef0bcc46c9cec8",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa0f96d9823ef0bcc46c9cec8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8aa0f96d9823ef0bcc46c9cec8",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 211644
+                    },
+                    "releaseDate": {
+                        "isoString": "2018-09-27T17:06:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68da0f96d9823ef0bcc46c9cec8",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa0f96d9823ef0bcc46c9cec8",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8aa0f96d9823ef0bcc46c9cec8",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Become a Member for ad-free listening, video versions and exclusive content: https:\/\/benlionelscott.com\/subscribe \u2014 This episode is spoken by Dr. Ken Friendly, Les Brown, Eric Thomas and Andy Frisella. You can see more of Dr. The music is MK Ultra by Really Slow Motion",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:6duQLV5jCjuiMuU1dIJN9e",
+                    "name": "Requests are OpEn",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68df43869e081a4fe2b262c8108",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff43869e081a4fe2b262c8108",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8af43869e081a4fe2b262c8108",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 107043
+                    },
+                    "releaseDate": {
+                        "isoString": "2023-07-26T02:32:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68db1836771659b750294cb73ea",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb1836771659b750294cb73ea",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8ab1836771659b750294cb73ea",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "i'll be taking 50 or more of your audio requests THEN I'LL UPLOAD IN HEREif your request didn't get posted it meaanss- i don't have the audio for that :')BUT I'LL TRY MY BEST TO FIND YOUR REQUEST (if i have the money for it)who knows I'll probably get broke \u00af_(\u30c4)_\/\u00afHERE IS THE TEMPLATE FOR THE REQUESTS(audio title) and (audio creator) from (platform??? its okay if you didn't put this)",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:4hS6WHYx1mjm2IpqnQXCFO",
+                    "name": "Showdown #8: Should People Be Required To Pay Taxes?",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d84e758c135561b2fcfe1c20e",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f84e758c135561b2fcfe1c20e",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a84e758c135561b2fcfe1c20e",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 1266912
+                    },
+                    "releaseDate": {
+                        "isoString": "2024-04-14T04:00:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d84e758c135561b2fcfe1c20e",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f84e758c135561b2fcfe1c20e",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a84e758c135561b2fcfe1c20e",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "In showdown #8, siblings Olivia and Noah debate whether people should be required to pay taxes. VOTE - https:\/\/forms.office.com\/r\/60JvscmtUS Visit Curious Kid Podcast On YouTube - https:\/\/www.youtube.com\/channel\/UC5d6HaNz_UYOaS7YuYayVwg Visit the Curious Kid Podcast Website - http:\/\/www.curiouskidpodcast.com Send Us An E-mail - curiouskidpodcast@gmail.com Leave Us A Voicemail - 856-425-2324 Support Us On Patreon - https:\/\/www.patreon.com\/Curiouskidpodcast Shop Curious Kid Podcast Merchandise - http:\/\/tee.pub\/lic\/fqXchg3wUVU Follow Us On Facebook - https:\/\/www.facebook.com\/curiouskidpod\/ Follow Us On Instagram - https:\/\/www.instagram.com\/curiouskidpodcast\/ Follow Us On Twitter - https:\/\/twitter.com\/CuriousKidPod",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:5IpSuVEamDaYcS2W62xj6F",
+                    "name": "REQUEST-WE BECAME DRAG QUEENS AGAIN",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d874d1bacf8f694a94a90a177",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f874d1bacf8f694a94a90a177",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a874d1bacf8f694a94a90a177",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 777496
+                    },
+                    "releaseDate": {
+                        "isoString": "2023-05-30T02:42:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d874d1bacf8f694a94a90a177",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f874d1bacf8f694a94a90a177",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a874d1bacf8f694a94a90a177",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "all creds to misfits gaming on yt!!!  ---   Send in a voice message: https:\/\/podcasters.spotify.com\/pod\/show\/autumn-koshollek\/message",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:4PjRU243DX8a9qCeBJb0Gd",
+                    "name": "Inner Work 185: What's required to align with your Soul's purpose, part 1",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d683252746cbf8529d20dce78",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f683252746cbf8529d20dce78",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a683252746cbf8529d20dce78",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 2501381
+                    },
+                    "releaseDate": {
+                        "isoString": "2024-04-27T12:01:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d10d1555f3b8359636b8b8692",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f10d1555f3b8359636b8b8692",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a10d1555f3b8359636b8b8692",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "This two-episode series of INNER WORK walks you through 6 \"big ideas\" about what's required to come into greater alignment with your Soul's highest purpose. In part one, join me for a discussion of:  getting deeper into alignment with your purpose to raise consciousness on this planet what you must RELEASE to fully align with and live your highest purpose how you can take inventory of where you currently are, and more clearly know and understand your purpose why surrendering and taking a leap of faith are key aspects of aligning with your purpose releasing attachments to your old identity carving out your own unique, purpose-driven, Soul-led path\u00a0  Make sure to come back for part two of this mini series (ep 186)! To explore my Akashic Records Certification Program, go here:  https:\/\/josephinehardman.com\/work-with-me\/akashic-records-certification-program\/ Join my email community and get access to my free Akashic Records Mini Course: https:\/\/josephinehardman.com\/akashic-records-intro\/ Visit my website: https:\/\/josephinehardman.com Thank you for being here and for being willing to do your inner work. It matters! Music & editing by G. Demers Inner Work 2024 All Rights Reserved.",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:0bFhugejCoPtfYk7RQAi1F",
+                    "name": "requests page!",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68de3324a6d06e3ff91aedbe3ee",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe3324a6d06e3ff91aedbe3ee",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8ae3324a6d06e3ff91aedbe3ee",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 280451
+                    },
+                    "releaseDate": {
+                        "isoString": "2022-04-24T15:16:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d8e4be0bdc3f1cd848da650e0",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8e4be0bdc3f1cd848da650e0",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a8e4be0bdc3f1cd848da650e0",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "this is an episode where you can send requests, whether it is an x listener audio to and edit audio or playlist, i got it covered! (i do not own the song. the song is \"a bomb\" by aaube, but slowed.)  ---   Send in a voice message: https:\/\/podcasters.spotify.com\/pod\/show\/juniper-3\/message",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:3xIMGcMJJl4m8rRu9mCrGg",
+                    "name": "A crackdown on salespeople posing as advisors, a widow who needs an income strategy, plus questions about a reverse mortgage, an RMD, and Social Security.",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68da920dc246867a89a1837aced",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa920dc246867a89a1837aced",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8aa920dc246867a89a1837aced",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 2712007
+                    },
+                    "releaseDate": {
+                        "isoString": "2024-05-11T13:00:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68da920dc246867a89a1837aced",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa920dc246867a89a1837aced",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8aa920dc246867a89a1837aced",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "On this week\u2019s Money Matters, Scott and Pat weigh the pros and cons of the Labor Department\u2019s looming crackdown on so-called advisors who sell financial products. A Utah man seeks guidance on how to help his widowed mother navigate her financial life. A California caller wants to know whether it makes sense to take out a reverse mortgage. A retiree with a surplus of money asks for help with an RMD strategy. Finally, a 63-year old wonders whether he should take Social Security early. \u00a0 Join Money Matters:\u00a0 Get your most pressing financial questions answered by Allworth's CEOs Scott Hanson and Pat McClain live on-air! Call 833-99-WORTH. Or ask a question by clicking\u00a0here.\u00a0 You can also be on the air by emailing Scott and Pat at\u00a0questions@moneymatters.com. Download and rate our podcast\u00a0here.",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:1H8RkXBHxDdSeeNhVR3TZM",
+                    "name": "Multipreneurship and the Future of Startups with Greg Isenberg",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d2d26646f623b586e07633275",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2d26646f623b586e07633275",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a2d26646f623b586e07633275",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 3304013
+                    },
+                    "releaseDate": {
+                        "isoString": "2024-05-03T11:09:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68ddd08c83f053e555a619c7b60",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdd08c83f053e555a619c7b60",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8add08c83f053e555a619c7b60",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Today\u2019s episode of Request for Startups features* Greg Isenberg: Co-Founder and CEO of Late Checkout, Former Advisor at Reddit and TikTok, @gregisenberg on X* Sean Linehan: Co-Founder and CEO at Exec, Co-Founder at Squad, @seanlinehan on X* Erik Torenberg:\u00a0Investor, Founder of\u00a0Turpentine.co. @eriktorenberg on XIn this week\u2019s episode, Greg Isenberg, Co-founder and CEO of Late Checkout, joins Erik Torenberg and Sean Linehan to discuss the difference between solopreneur and multipreneur movements, leveraging community-based products, startup ideas and the future of holding companies and their impact on entrepreneurship.Recommended Podcast: Company Breakdowns Each episode of Company Breakdowns dives into S-1s and series B-and-beyond companies, interviewing founders and investors to break down the companies. First episodes are on Reddit and Rubrik - which just IPO'd.Spotify: https:\/\/open.spotify.com\/show\/0epyYBAxLeF0PsNagdDJAJApple: https:\/\/podcasts.apple.com\/podcast\/company-breakdowns\/id1743119197TIMESTAMPS:(00:00)\u00a0Intro(02:05)\u00a0Multipreneurship: Redefining entrepreneurship(08:46)\u00a0Strategy behind Late Checkout(13:55)\u00a0Power of AI community(17:55) Sponsor: Turpentine(18:43)\u00a0Key to multipreneur success(21:40) Future of holding companies and entrepreneurship(29:40)\u00a0Is Greg Isenberg the Bezos of the future?(36:08)\u00a0Challenges and opportunities in the holding company model(40:57)\u00a0Greg\u2019s request for startups(53:53)\u00a0Wrap This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit requestforstartups.substack.com",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            }
+        ]
+    },
+    "genres": {
+        "totalCount": 0,
+        "items": []
+    },
+    "playlists": {
+        "totalCount": 1000,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:playlist:3B2fWxsJHxygGh7toOS09u",
+                    "name": "required Listening",
+                    "description": "I CANT TALK IM LISTENING AND LEARNING AND ENJOYING.",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/image-cdn-ak.spotifycdn.com\/image\/ab67706c0000da849a0468bba5e6eebaf4fae40d",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "jane remover"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:1A4o0KiotrTWmrmrq6b7kr",
+                    "name": "Recourse52",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d00001e021336b31b6a1799f0de5807acab67616d00001e024d54f9eccf5646d0f7a1bd30ab67616d00001e0290de79652ab78e4954dd7a8fab67616d00001e02e9c63f16e9f8d55a5c942b12",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d00001e021336b31b6a1799f0de5807acab67616d00001e024d54f9eccf5646d0f7a1bd30ab67616d00001e0290de79652ab78e4954dd7a8fab67616d00001e02e9c63f16e9f8d55a5c942b12",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d00001e021336b31b6a1799f0de5807acab67616d00001e024d54f9eccf5646d0f7a1bd30ab67616d00001e0290de79652ab78e4954dd7a8fab67616d00001e02e9c63f16e9f8d55a5c942b12",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Sam Berth"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:4Je4L7rV8xRuiybokARidj",
+                    "name": "Audiophile\u2019s Guide to Eargasms: Headphones Required \ud83c\udfa7",
+                    "description": "An eclectic mix of some of my favorite songs to listen to with headphones. Headphones Required for Eargasm Experience!",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/image-cdn-ak.spotifycdn.com\/image\/ab67706c0000da848349d25e06538a01f545e4b4",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Priscilla Bernstein"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:4mTq7OtfwClwWcCGOseL6Y",
+                    "name": "Lipscomb Rock and Roll - Required Recordings",
+                    "description": "This playlist was created to facilitate study of the history of rock and roll as presented in Scott D. Lipscomb&#x27;s &quot;Rock and roll: Its history and stylistic development&quot; (8th edition). See the Recommended Recordings list for additional suggestions beyond this core set of tracks.",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d00001e022f017e3180aca26809813d2cab67616d00001e0246556d7ac53c73f319d33442ab67616d00001e028f5281f66452016858aef137ab67616d00001e02a0b8a1ce10fddbba6879262e",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d00001e022f017e3180aca26809813d2cab67616d00001e0246556d7ac53c73f319d33442ab67616d00001e028f5281f66452016858aef137ab67616d00001e02a0b8a1ce10fddbba6879262e",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d00001e022f017e3180aca26809813d2cab67616d00001e0246556d7ac53c73f319d33442ab67616d00001e028f5281f66452016858aef137ab67616d00001e02a0b8a1ce10fddbba6879262e",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Scott Lipscomb"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:0wGdQvEb6mg55dqcxX8Gn5",
+                    "name": "MUSI 306.04 The Music of Led Zeppelin Required Listening pt.1",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d00001e026f2f499c1df1f210c9b34b32ab67616d00001e02af3dcf0dbaeb18878ab061feab67616d00001e02b1dec7cf8d5bce10be5146c7ab67616d00001e02fc4f17340773c6c3579fea0d",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d00001e026f2f499c1df1f210c9b34b32ab67616d00001e02af3dcf0dbaeb18878ab061feab67616d00001e02b1dec7cf8d5bce10be5146c7ab67616d00001e02fc4f17340773c6c3579fea0d",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d00001e026f2f499c1df1f210c9b34b32ab67616d00001e02af3dcf0dbaeb18878ab061feab67616d00001e02b1dec7cf8d5bce10be5146c7ab67616d00001e02fc4f17340773c6c3579fea0d",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "rmaier"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:0xAK9lSQPUJVOxA6PEflLd",
+                    "name": "SOUL\/R&B REQUIRED LISTENING",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/640\/ab67616d00001e023138f891f3075c9c5d944037ab67616d00001e026a6387ab37f64034cdc7b367ab67616d00001e027027294551db4fda68b5ddacab67616d00001e02fcf75ead8a32ac0020d2ce86",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/300\/ab67616d00001e023138f891f3075c9c5d944037ab67616d00001e026a6387ab37f64034cdc7b367ab67616d00001e027027294551db4fda68b5ddacab67616d00001e02fcf75ead8a32ac0020d2ce86",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https:\/\/mosaic.scdn.co\/60\/ab67616d00001e023138f891f3075c9c5d944037ab67616d00001e026a6387ab37f64034cdc7b367ab67616d00001e027027294551db4fda68b5ddacab67616d00001e02fcf75ead8a32ac0020d2ce86",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Soul Sugar"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:37i9dQZF1DX6AWGsjpYHPA",
+                    "name": "Turntable",
+                    "description": "Hand-curated cuts from the vault, no record player required. ",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/i.scdn.co\/image\/ab67706f0000000236f12d9fd117a1c3a90be605",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Spotify"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:37i9dQZF1DWSQdWLR9uOGs",
+                    "name": "Phonk Origins",
+                    "description": "No cowbell required",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/i.scdn.co\/image\/ab67706f00000002892863a7803a476a6c14b0e1",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Spotify"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:76rmy2WvoLmykP28zn2vAM",
+                    "name": "Twerking Music 2024",
+                    "description": "twerking required",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/i2o.scdn.co\/image\/ab67706c0000cfa332de4656513178c8dee71a67",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Sleepy Times"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:0cwbskPEGq7PxHVTaQvZHa",
+                    "name": "Top 100 Hair Metal\/Hair Band Songs of All Time",
+                    "description": "A can of hair mousse and a pair of black spandex not required here, but HIGHLY reccommended.",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/image-cdn-ak.spotifycdn.com\/image\/ab67706c0000da84ca898ac7de76ae1e0cfc67d2",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Spinning Unrest Music"
+                    }
+                }
+            }
+        ]
+    },
+    "podcasts": {
+        "totalCount": 1000,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:show:3DdgS9Yd2o2ju4iaeLFlgj",
+                    "name": "Required Readings",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68ddf04d4fc8e2aa2925af746e3",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdf04d4fc8e2aa2925af746e3",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8adf04d4fc8e2aa2925af746e3",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Required Readings"
+                    },
+                    "mediaType": "MIXED"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:1o56farRsPr6OGabQHHWnv",
+                    "name": "Requiem for a Tuesday",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68dcd93fbf57bab2925eea92254",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcd93fbf57bab2925eea92254",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8acd93fbf57bab2925eea92254",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "RFAT Audio"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:2zAdwZ3DlpNHoym3uis0cZ",
+                    "name": "AP US Government and Politics Help - Required Supreme Court Cases",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68de9a92becfda071a9d799bb06",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe9a92becfda071a9d799bb06",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8ae9a92becfda071a9d799bb06",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Sofia Antonioli"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:5r08dm5d4DbcwSDUwaMUPi",
+                    "name": "Requisitos de Software - Introdu\u00e7\u00e3o a Modelagem de Sistemas",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d5b447c226116be75ece9c4af",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5b447c226116be75ece9c4af",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a5b447c226116be75ece9c4af",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Mirian Menezes"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:5tU91EXt1eULD2JwNiEl9U",
+                    "name": "No Sanity Required",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68dbdb87a144a55173d6222fa18",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbdb87a144a55173d6222fa18",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8abdb87a144a55173d6222fa18",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Snowbird Wilderness Outfitters"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:5h9yZb0jV3rsTN5PWs05RW",
+                    "name": "Requerimiebtos netos ",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/e75c0214f1a0181b14d35f19c0cbf00c05fa4755",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/05b76e02afd0f7f06a52cd564ca598da4bf87c41",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/6f45c604da9399e0b56df8f985fede967a5b05da",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Jesus Cervantes huerta"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:6zYlX5UGEPmNCWacYUJQGD",
+                    "name": "Marketplace",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/1e891ea40115aa78d4391d5a337418ea7a38880f",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/e5a6831ba6d364e04197c6ee89818a8d419d1b66",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/7317fb8169fdafb9e8b2d05c66300d75cb82d39f",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Marketplace"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:242hY7HS5AIBdxNs96n83l",
+                    "name": "Requiem Daily Podcast",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68dc41057b64b4ca0e9d38a69d5",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc41057b64b4ca0e9d38a69d5",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8ac41057b64b4ca0e9d38a69d5",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Requiem Church"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:3S99jl3DeciE76kCzyailJ",
+                    "name": "Additional Postage Required",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68dd95c7c1e82802db3803a07e5",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd95c7c1e82802db3803a07e5",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8ad95c7c1e82802db3803a07e5",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Jay Petrequin"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:0f2wMk3J15CAPEC7yJXubv",
+                    "name": "Required Taste Podcast",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000f68d245875c00f152b3f980cdc21",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab67656300005f1f245875c00f152b3f980cdc21",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https:\/\/i.scdn.co\/image\/ab6765630000ba8a245875c00f152b3f980cdc21",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Required Taste Podcast"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            }
+        ]
+    },
+    "topResults": {
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:track:10UNa6qLnyJqCidBklPGm0",
+                    "id": "10UNa6qLnyJqCidBklPGm0",
+                    "name": "Required",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:2smT3A7MjmmfKNFwlDnEBd",
+                        "name": "Pre Heat",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e020520ecfcc5dfbe14ef8cf183",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048510520ecfcc5dfbe14ef8cf183",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2730520ecfcc5dfbe14ef8cf183",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "2smT3A7MjmmfKNFwlDnEBd",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/2smT3A7MjmmfKNFwlDnEBd?si=HqI2kmn5SFubPxVqWsJ4yQ"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:57fgfg6PTbTqtPegX6rXV5",
+                                "profile": {
+                                    "name": "HEAVY CHEST"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 167206
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:63MlPFQQ7PNGiiHMnVrfw2",
+                    "id": "63MlPFQQ7PNGiiHMnVrfw2",
+                    "name": "request",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:1f6C0igNf8jtwASukoTF6I",
+                        "name": "request",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02929e3211dc20f24a5867931c",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851929e3211dc20f24a5867931c",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273929e3211dc20f24a5867931c",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "1f6C0igNf8jtwASukoTF6I",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/1f6C0igNf8jtwASukoTF6I?si=UCneeZCwRD63XHZUJFeJYg"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:35jRIUtWCUITFLfjhYwkFx",
+                                "profile": {
+                                    "name": "krage"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 224234
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:1xYiKitF9wBw1THoXHS5nT",
+                    "id": "1xYiKitF9wBw1THoXHS5nT",
+                    "name": "REQUIRED",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:2iDtE77T8wbiARPMD2dWpT",
+                        "name": "SACRIFICIALLY",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02cc33538d435c7b28a97ef1fd",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851cc33538d435c7b28a97ef1fd",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273cc33538d435c7b28a97ef1fd",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "2iDtE77T8wbiARPMD2dWpT",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/2iDtE77T8wbiARPMD2dWpT?si=6rMB93h4QdyKRS0m257LQw"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:7lQxHeKGUgpquUrEabcBBC",
+                                "profile": {
+                                    "name": "ANADALY"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:0CxWoPrzqAHQBnqK3EGje6",
+                                "profile": {
+                                    "name": "MASAMORA"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:16rbrhoA0hn2HzAET8rz5L",
+                                "profile": {
+                                    "name": "XDESTRAIGERX"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 72851
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:1g05P4Ua1FzC0cQxSlgmyu",
+                    "profile": {
+                        "name": "Required"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000e5ebebf3e7887f3a03ae10f4c8d3",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab6761610000f178ebf3e7887f3a03ae10f4c8d3",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616100005174ebf3e7887f3a03ae10f4c8d3",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:3B2fWxsJHxygGh7toOS09u",
+                    "name": "required Listening",
+                    "description": "I CANT TALK IM LISTENING AND LEARNING AND ENJOYING.",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https:\/\/image-cdn-ak.spotifycdn.com\/image\/ab67706c0000da849a0468bba5e6eebaf4fae40d",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "jane remover"
+                    }
+                }
+            }
+        ],
+        "featured": []
+    },
+    "tracks": {
+        "totalCount": 828,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:track:10UNa6qLnyJqCidBklPGm0",
+                    "id": "10UNa6qLnyJqCidBklPGm0",
+                    "name": "Required",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:2smT3A7MjmmfKNFwlDnEBd",
+                        "name": "Pre Heat",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e020520ecfcc5dfbe14ef8cf183",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048510520ecfcc5dfbe14ef8cf183",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2730520ecfcc5dfbe14ef8cf183",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "2smT3A7MjmmfKNFwlDnEBd",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/2smT3A7MjmmfKNFwlDnEBd?si=c_PSWM2uR6u5C3ujx_jkSQ"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:57fgfg6PTbTqtPegX6rXV5",
+                                "profile": {
+                                    "name": "HEAVY CHEST"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 167206
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:63MlPFQQ7PNGiiHMnVrfw2",
+                    "id": "63MlPFQQ7PNGiiHMnVrfw2",
+                    "name": "request",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:1f6C0igNf8jtwASukoTF6I",
+                        "name": "request",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02929e3211dc20f24a5867931c",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851929e3211dc20f24a5867931c",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273929e3211dc20f24a5867931c",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "1f6C0igNf8jtwASukoTF6I",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/1f6C0igNf8jtwASukoTF6I?si=17kiIQvoRl-PsQJF1Ejllw"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:35jRIUtWCUITFLfjhYwkFx",
+                                "profile": {
+                                    "name": "krage"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 224234
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:1xYiKitF9wBw1THoXHS5nT",
+                    "id": "1xYiKitF9wBw1THoXHS5nT",
+                    "name": "REQUIRED",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:2iDtE77T8wbiARPMD2dWpT",
+                        "name": "SACRIFICIALLY",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02cc33538d435c7b28a97ef1fd",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851cc33538d435c7b28a97ef1fd",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273cc33538d435c7b28a97ef1fd",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "2iDtE77T8wbiARPMD2dWpT",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/2iDtE77T8wbiARPMD2dWpT?si=z1nb3kChQCKcvRDrGak5Vw"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:7lQxHeKGUgpquUrEabcBBC",
+                                "profile": {
+                                    "name": "ANADALY"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:0CxWoPrzqAHQBnqK3EGje6",
+                                "profile": {
+                                    "name": "MASAMORA"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:16rbrhoA0hn2HzAET8rz5L",
+                                "profile": {
+                                    "name": "XDESTRAIGERX"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 72851
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:5msTV0CyhgjT6YcXOW1RWr",
+                    "id": "5msTV0CyhgjT6YcXOW1RWr",
+                    "name": "Request Refused",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:5OEoU8caLGSPsLPGomY3PH",
+                        "name": "East Memphis Maniac",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02738834cced16d78daa101d11",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851738834cced16d78daa101d11",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273738834cced16d78daa101d11",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "5OEoU8caLGSPsLPGomY3PH",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/5OEoU8caLGSPsLPGomY3PH?si=7H-j72B0SI2QLllkSiWzJA"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:3uo0ix4Y67XHVWBhXXIY1S",
+                                "profile": {
+                                    "name": "Xavier Wulf"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 150943
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:1cIfODqkOniMnWWl0EcRMc",
+                    "id": "1cIfODqkOniMnWWl0EcRMc",
+                    "name": "Disassembly Required (Teaser Original Soundtrack)",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:0BbeoTXqQv0qKki6CDcznI",
+                        "name": "Disassembly Required (Teaser Original Soundtrack)",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0226cf2e2751ee0aec2cf62479",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485126cf2e2751ee0aec2cf62479",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27326cf2e2751ee0aec2cf62479",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "0BbeoTXqQv0qKki6CDcznI",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/0BbeoTXqQv0qKki6CDcznI?si=BnGr3ivRTimbWomuHctXqQ"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:0yXeAQirPMVzAlhxGvux1s",
+                                "profile": {
+                                    "name": "Liam Vickers"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 120000
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:0KEEzyspcgns3JEdJboguD",
+                    "id": "0KEEzyspcgns3JEdJboguD",
+                    "name": "REQUIEM",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:21Y2KDAvmbyaENzKIeO2Lj",
+                        "name": "REQUIEM",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0216b2f50434857bd68a37d7fd",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485116b2f50434857bd68a37d7fd",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27316b2f50434857bd68a37d7fd",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "21Y2KDAvmbyaENzKIeO2Lj",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/21Y2KDAvmbyaENzKIeO2Lj?si=uAjAS-NbTyGWO7AzJKaijA"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:3Z2tyxT1pjQnZtkwGQngi6",
+                                "profile": {
+                                    "name": "ROMANTICA"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 101538
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:2R6EjjxkSop7x8adokEnqb",
+                    "id": "2R6EjjxkSop7x8adokEnqb",
+                    "name": "REQUIRED MALFUNCTION",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:79B1nOppxSiiA8rfe7EGzg",
+                        "name": "DIVISION",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02c32149fb6059a670dd88ed17",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851c32149fb6059a670dd88ed17",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273c32149fb6059a670dd88ed17",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "79B1nOppxSiiA8rfe7EGzg",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/79B1nOppxSiiA8rfe7EGzg?si=uS4KYHgaQ26gVUapxoArew"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:4gRFSxjAcJkb54BDjqo7Bc",
+                                "profile": {
+                                    "name": "the GazettE"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 247253
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:6GYxyxnP6oeLWoJZOU3N15",
+                    "id": "6GYxyxnP6oeLWoJZOU3N15",
+                    "name": "Request Line",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:5tssPvcjEkuPujmQHhX70A",
+                        "name": "Saturday Night",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02e084258c981beb6b968393dc",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851e084258c981beb6b968393dc",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273e084258c981beb6b968393dc",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "5tssPvcjEkuPujmQHhX70A",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/5tssPvcjEkuPujmQHhX70A?si=1kb6iaAvS422VnDJDcEyfw"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:6cjSmkVvMvyE6tCAo1M9Is",
+                                "profile": {
+                                    "name": "Zhan\u00e9"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 236266
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:4cfdqtIu3JMIvkBRanf9oh",
+                    "id": "4cfdqtIu3JMIvkBRanf9oh",
+                    "name": "Bass Down Low",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:1hoTrVzG2I3DCwjv81qrJx",
+                        "name": "Bass Down Low",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02b319e426219a52c0e3acd528",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851b319e426219a52c0e3acd528",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b319e426219a52c0e3acd528",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "1hoTrVzG2I3DCwjv81qrJx",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/1hoTrVzG2I3DCwjv81qrJx?si=PedxJY4hQCOeDJ4yfc20xw"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:1g05P4Ua1FzC0cQxSlgmyu",
+                                "profile": {
+                                    "name": "Required"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:1jW6LuIyqoqeVThJeuG8QK",
+                                "profile": {
+                                    "name": "Synapze"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 129015
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:6mTaWWylllVBfciahlzfHZ",
+                    "id": "6mTaWWylllVBfciahlzfHZ",
+                    "name": "Request Refused",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:6YVmhEZiE0bYnEWWQNJ8VY",
+                        "name": "Request Refused",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02ca511bded85461036dde4e73",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851ca511bded85461036dde4e73",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ca511bded85461036dde4e73",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "6YVmhEZiE0bYnEWWQNJ8VY",
+                        "sharingInfo": {
+                            "shareUrl": "https:\/\/open.spotify.com\/album\/6YVmhEZiE0bYnEWWQNJ8VY?si=2T7Z9d7rSp-Bl8W4Mj6BGw"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:3uo0ix4Y67XHVWBhXXIY1S",
+                                "profile": {
+                                    "name": "Xavier Wulf"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 150943
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            }
+        ]
+    },
+    "users": {
+        "totalCount": 136,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:user:jwbe7sw2exw0sswleoende557",
+                    "id": "jwbe7sw2exw0sswleoende557",
+                    "displayName": "no headphones required",
+                    "username": "jwbe7sw2exw0sswleoende557",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b82f55b2850916a9f66c71b8b40",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee85f55b2850916a9f66c71b8b40"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:31czy43j65rbvlfu657c3vtgs7re",
+                    "id": "31czy43j65rbvlfu657c3vtgs7re",
+                    "displayName": "reQuiReD",
+                    "username": "31czy43j65rbvlfu657c3vtgs7re",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b82d245ca852b68105fed0241fd",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee85d245ca852b68105fed0241fd"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:ajmnn2w57nnp6u4qsnllenqde",
+                    "id": "ajmnn2w57nnp6u4qsnllenqde",
+                    "displayName": "name is required",
+                    "username": "ajmnn2w57nnp6u4qsnllenqde",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b82769e0322e9adc684eef126d3",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee85769e0322e9adc684eef126d3"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:ptzbcqv00c9liho8llejf3jx6",
+                    "id": "ptzbcqv00c9liho8llejf3jx6",
+                    "displayName": "Name is required",
+                    "username": "ptzbcqv00c9liho8llejf3jx6",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b824e4cead17aeff7f3c467016a",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee854e4cead17aeff7f3c467016a"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:uvofk2oijr56cy3ti79xzhghg",
+                    "id": "uvofk2oijr56cy3ti79xzhghg",
+                    "displayName": "required",
+                    "username": "uvofk2oijr56cy3ti79xzhghg",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b82d93fce675e93e7f1b639fa71",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee85d93fce675e93e7f1b639fa71"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:requiredsunlight",
+                    "id": "requiredsunlight",
+                    "displayName": "requiredsunlight",
+                    "username": "requiredsunlight",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b82e527c7a1148a7638f17da499",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee85e527c7a1148a7638f17da499"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:4jx8j21xm400ka0f4thmd6jtg",
+                    "id": "4jx8j21xm400ka0f4thmd6jtg",
+                    "displayName": "required",
+                    "username": "4jx8j21xm400ka0f4thmd6jtg",
+                    "image": {
+                        "smallImageUrl": null,
+                        "largeImageUrl": null
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:2124q72xdd2dir66c5em7rxnq",
+                    "id": "2124q72xdd2dir66c5em7rxnq",
+                    "displayName": "required",
+                    "username": "2124q72xdd2dir66c5em7rxnq",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b8284ea86d98e1ef4c6d5b38623",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee8584ea86d98e1ef4c6d5b38623"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:1145859520",
+                    "id": "1145859520",
+                    "displayName": "orange required",
+                    "username": "1145859520",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b829510222e3c5128cf122bafab",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee859510222e3c5128cf122bafab"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:smqm1xnw9p786s3ukv8uqkq95",
+                    "id": "smqm1xnw9p786s3ukv8uqkq95",
+                    "displayName": "no name required",
+                    "username": "smqm1xnw9p786s3ukv8uqkq95",
+                    "image": {
+                        "smallImageUrl": "https:\/\/i.scdn.co\/image\/ab67757000003b8222551b589b453454349d93d8",
+                        "largeImageUrl": "https:\/\/i.scdn.co\/image\/ab6775700000ee8522551b589b453454349d93d8"
+                    }
+                }
+            }
+        ]
+    }
+}
