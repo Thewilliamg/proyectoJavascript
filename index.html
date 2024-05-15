@@ -10,14 +10,24 @@
 <body>
     <main>
         <container class="left">
-            <div id="title"><h2>Discover New music</h2></div>
-            <div id="album_div">
-                <div><h3>Top-chart</h3><details>Week</details></div>
-                <div id="albums_list"></div>
+            <div class="title"><h2>Discover New music</h2></div>
+            <div class="album_div">
+                <div><h3>Top-chart</h3><details></details></div>
+                <div class="albums_list"></div>
             </div>
+            <div class="footer"><h3>You may like</h3><div class="may_like"></div></div>
         </container>   
-        <container class="center"><my-frame uri="spotify:album:3IBcauSj5M2A6lTeffJzdv"></my-frame></container>
-        <container class="right"></container>
+        <container class="center">
+            <div class="title"><h3>Now playing</h3></div>
+            <my-frame uri="spotify:album:3IBcauSj5M2A6lTeffJzdv"></my-frame>
+        </container>
+        <container class="right">
+            <div class="title"><h2>Track list</h2></div>
+            <div class="album_div">
+                <div><h3>Top-chart</h3><details></details></div>
+                <div class="albums_list"></div>
+            </div>
+        </container>
     </main>
 </body>
 </html>

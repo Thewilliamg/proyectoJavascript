@@ -11,7 +11,7 @@ body{
 }
 main{
     display: grid;
-    grid-template-columns: 1fr auto 1fr;
+    grid-template-columns: 2fr 3fr 2fr;
     width: 100%;
     height: 100vh;
     /* box-sizing: border-box;   */
@@ -23,15 +23,17 @@ container {
     /* border: 3px solid; */
     justify-content: center;
 }
-.left{
+.left,.right {
     display: grid;
     grid-template-rows: 1fr 4fr 2fr;
+    background-color: #102040;
+    padding: 2%;
 }
 container > my-frame{
     /* border: 3px solid red; */
-    background-color: #404040;
+    background-color: #108040;
     padding: 3px;
-    border-radius: 3rem;
+    border-radius: 1rem;
     width: 100%;
     height: 80%;
     margin-top: 10px;
@@ -39,10 +41,40 @@ container > my-frame{
     align-items: center;
 }
 .center{
-    /* display: flex;
-    justify-content: center; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 2%;
+    /* background-color: black; */
 }
 .right{
-
+    
+}
+.title{
+    /* background-color: #5080ff; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
 }
 
+.title h2{
+    color: white;
+    /* background-color: red; */
+    font-size: 3rem;
+    display:flex;
+    justify-content: center;
+    width: 100%;
+}
+.album_div{
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+h3{
+    font-size: 2rem;
+}
+.footer{
+    border: 1px solid gray;
+    border-radius: 6px;
+    padding-top: 4px;
+}
