@@ -1,5 +1,6 @@
 export const importationAlbum = async() => {
-    const url = 'https://spotify23.p.rapidapi.com/albums/?ids=3IBcauSj5M2A6lTeffJzdv';
+    // const url = 'https://spotify23.p.rapidapi.com/albums/?ids=3IBcauSj5M2A6lTeffJzdv';
+    const url = '../db/albumTrack.json'
     const options = {
         method: 'GET',
         headers: {

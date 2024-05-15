@@ -4,9 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="./js/main.js" type="module" defer></script>
-    <title>Spotify Project</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Javascript Project</title>
 </head>
 <body>
-    <my-frame uri="spotify:album:3IBcauSj5M2A6lTeffJzdv"></my-frame>
+    <main>
+        <container class="left">
+            <div id="title"><h2>Discover New music</h2></div>
+            <div id="album_div">
+                <div><h3>Top-chart</h3><details>Week</details></div>
+                <div id="albums_list"></div>
+            </div>
+        </container>   
+        <container class="center"><my-frame uri="spotify:album:3IBcauSj5M2A6lTeffJzdv"></my-frame></container>
+        <container class="right"></container>
+    </main>
 </body>
 </html>
