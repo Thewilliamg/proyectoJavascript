@@ -3,27 +3,29 @@ import {
     importationAlbumTracksById
 } from "../components/fetchAlbum.js";
 import {importationSearch} from "../components/fetchSearch.js";
-import {createTrackCard} from "../components/createTrackCard.js"
-// class myframe extends HTMLElement{
-//     id
-//     constructor(id){
-//         super();
-//         this.attachShadow({mode: "open"});
-//     }
-//     connectedCallback(){
-//         this.shadowRoot.innerHTML = /*html*/`
-//             <iframe class="spotify-iframe" width="100%" height="100%" src="https://open.spotify.com/embed/album/${this.id}" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-//         `
-//     }
-//     static get observedAttributes(){
-//         return ["uri"];
-//     }
-//     attributeChangedCallback(name,old,now){
-//         let[nameUri, album, id] = now.split(":")
-//         this.id = id;
-//     }
-// }
-// customElements.define("my-frame",myframe)
+import {createTrackCard} from "../components/creates.js"
+
+
+class myframe extends HTMLElement{
+    id
+    constructor(id){
+        super();
+        this.attachShadow({mode: "open"});
+    }
+    connectedCallback(){
+        this.shadowRoot.innerHTML = /*html*/`
+            <iframe class="spotify-iframe" width="100%" height="100%" src="https://open.spotify.com/embed/album/${this.id}" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+        `
+    }
+    static get observedAttributes(){
+        return ["uri"];
+    }
+    attributeChangedCallback(name,old,now){
+        let[nameUri, album, id] = now.split(":")
+        this.id = id;
+    }
+}
+customElements.define("my-frame",myframe)
 
 
 // importationAlbumTracksById()
@@ -39,24 +41,26 @@ export class AlbumCardCreator {
 
     createCards() {
         this.albumData.forEach(album => {
-            let parseDate = album.release_date.split("-");
             const card = document.createElement("div");
             card.classList.add("card");
-            //creando caratula
+
             const img = document.createElement("img")
             img.src = album.images[0].url;
             img.alt = album.name;
-            card.appendChild(img);
-            //creando nombre de elemento
+
             const name = document.createElement("p");
             name.classList.add("albumName");
             name.textContent = album.name;
-            card.appendChild(name);
-            //nombre de artista
+
             const artist = document.createElement("p");
             artist.classList.add("artist");
+            let parseDate = album.release_date.split("-");
             artist.textContent = `${album.artist[0].name} -${parseDate[0]}`; 
+            
+            card.appendChild(img);
+            card.appendChild(name);
             card.appendChild(artist);
+            
             card.dataset.albumId = album.id;
             card.addEventListener("click", () => this.handleAlbumClick(card.dataset.albumId))
             
@@ -87,7 +91,7 @@ export class AlbumCardCreator {
     }
 }
 
-//para usarl la calase anterior
+//para usarl la clase anterior
 import {AlbumCardCreator} from '';
 
 const albumData = obtenerDatosDelAlbum();
