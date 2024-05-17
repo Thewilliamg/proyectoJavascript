@@ -1,30 +1,12 @@
-import {
-    importationAlbum,
-    importationAlbumTracksById
-} from "../components/fetchAlbum.js";
+import {TrackCardCreator} from "../components/creates.js"
+import {AlbumLoader} from "../components/load.js"
+import {importationAlbum, importationAlbumTracksById} from "../components/fetchAlbum.js";
+import {myframe} from "../components/myframe.js"
 import {importationSearch} from "../components/fetchSearch.js";
 import {createTrackCard} from "../components/creates.js"
+import {searchInAlbums,searchInTracks} from "../components/search.js"
 
 
-class myframe extends HTMLElement{
-    id
-    constructor(id){
-        super();
-        this.attachShadow({mode: "open"});
-    }
-    connectedCallback(){
-        this.shadowRoot.innerHTML = /*html*/`
-            <iframe class="spotify-iframe" width="100%" height="100%" src="https://open.spotify.com/embed/album/${this.id}" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-        `
-    }
-    static get observedAttributes(){
-        return ["uri"];
-    }
-    attributeChangedCallback(name,old,now){
-        let[nameUri, album, id] = now.split(":")
-        this.id = id;
-    }
-}
 customElements.define("my-frame",myframe)
 
 
@@ -39,7 +21,7 @@ export class AlbumCardCreator {
         this.fragment = document.createDocumentFragment();
     }
 
-    createCards() {
+    createCard() {
         this.albumData.forEach(album => {
             const card = document.createElement("div");
             card.classList.add("card");
@@ -67,6 +49,7 @@ export class AlbumCardCreator {
             this.fragment.appendChild(card)
         });
         return this.fragment;
+        // return card;
     }
 
     async handleAlbumClick(albumId){
@@ -76,27 +59,38 @@ export class AlbumCardCreator {
         if (this.albumData) {
             const trackslist = document.querySelector(".tracks_list")
             trackslist.innerHTML = "";
+            const album = this.albumData.find(album => album.id === albumId);
+            if (album) {
             const albumImage =this.albumData[0].images[0].url;//asumiendo que tiene almenos una imagen
             const dataRelease = this.albumData[0].release_date.split("-")[0];
             for (const track of this.albumData[0].tracks.items){
                 const trackCard = createTrackCard(track,albumImage,dataRelease);
                 trackslist.appendChild(trackCard);    
             }
+            } else {
+                console.error(`No se encuentra el Album del album ${this.albumId}`);
+            }
         } else {
-            console.error(`No se encuentra la lista de canciones del album ${this.albumData[0].name}`);
+            console.error(`No se pudo obtener la lista de canciones del álbum con ID ${albumId}`);
         }
     }
-    createTrackCard(track,albumImage,dataRelease){
 
+    //     createTrackCard(track, albumImage, dataRelease) {
+    //    }
+
+    createAlbumCards() {
+        this.albumData.forEach(album => {
+            const card = this.createCard(album);
+            this.fragment.appendChild(card);
+        });
+        return this.fragment;
     }
 }
 
-//para usarl la clase anterior
-import {AlbumCardCreator} from '';
-
-const albumData = obtenerDatosDelAlbum();
-const creator = new AlbumCardCreator(albumData);
-const cardFragment = creator.createCards();
+// //para usarlas
+// const albumData = [...]; // Tu array de datos de álbumes
+// const albumCardCreator = new AlbumCardCreator(albumData);
+// const albumCardsFragment = albumCardCreator.createAlbumCards();
 
 
 
