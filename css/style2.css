@@ -1,0 +1,325 @@
+@import url(var2.css);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--color-ternary);
+    font-family: CircularSpTitle,CircularSpTitle-Tall,CircularSp-Arab,CircularSp-Hebr,CircularSp-Cyrl,CircularSp-Grek,CircularSp-Deva,var(--fallback-fonts,sans-serif);
+}
+
+body {
+    background: var(--color-cuaternary);
+}
+
+.page {
+    display: grid;
+    grid-template-columns: 28% 1fr 20%; 
+    grid-template-areas:
+    "section__1 section__2 section__3";
+}
+
+.section__1 {
+    grid-area: section__1; 
+    display: flex;
+    flex-flow: column; 
+    height: 98vh;
+    width: 99%;
+    background: var(--color-primary);
+    margin: 1vh;
+    border-radius: 2%;
+
+}
+.subtitle__section1{
+    font-size: 3em;
+    padding: 0.5em;
+    font-weight: bold;
+    
+}
+.cardsbox {
+    background: var(--color-primary);
+    width: 98.5%;
+    height: 45vh; 
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+    gap: 0.5em;
+    padding: 0.5em;
+    margin: 0.5em;
+    overflow-y: scroll; 
+    border-radius: 5%;
+}
+.track_recommendations_box {
+    background: var(--color-primary);
+    width: 98.5%;
+    height: 30vh;
+    max-height: 100%; 
+    overflow-y: auto; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5%;
+    padding: 0.5em;
+    gap: 0.2em;
+    
+}
+.recommendations{
+    font-size: 1.4em;
+    padding: 0.2em;
+    font-weight: bold;
+    margin-left: 1em;
+    
+}
+.card{
+width: 45%;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+background-color: var(--color-secundary);
+border-radius: 5%;
+padding: 1em;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+.card:hover{
+    background: #ccc;
+}
+.card img{
+    object-fit: cover;
+    width: 70%;
+    border-radius: 5%;
+
+}
+.sname{
+    font-weight: 900;
+    font-size: 16px;
+}
+.autor__age{
+    font-size: 14px;
+}
+
+.audio__player {
+    grid-area: section__2; 
+    height: 100%;
+}
+.section__3{
+    grid-area: section__3; 
+    display: flex;
+    flex-flow: column; 
+    height: 98vh;
+    width: 95%;
+    background: var(--color-primary);
+
+    border-radius: 2%;
+}
+.subtitle__section3{
+    font-size: 2.5em;
+    padding: 0.5em;
+    font-weight: bold;
+}
+.tracks__container {
+    background: var(--color-primary);
+    width: 98.5%;
+    height: 98vh;
+    max-height: 100%; 
+    overflow-y: auto; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5%;
+    padding: 0.5em;
+    gap: 0.2em;
+}
+
+.track__card {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-width: 600px;
+    height: 100px;
+    background: var(--color-secundary);
+    border-radius: 1em;
+    margin-bottom: 0.5em; 
+    overflow-x: hidden;
+}
+
+.track__card img {
+    object-fit: contain;
+    width: 50%;
+    border-radius: 5%;
+}
+
+.info1 {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    padding: 0.8em;
+}
+
+.info2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    width: 15%;
+}
+.year{
+    font-size: 12px;
+    color: #999;
+    font-weight: 900;
+}
+.aname3{
+    font-weight: 900;
+}
+.time{
+    font-size: 15px;
+}
+.buttons {
+    display: none;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 1em;
+}
+
+
+.buttons p {
+    cursor: pointer;
+     transition: background-color 0.3s, color 0.3s;
+}
+.buttons p:hover {
+    background-color: #ccc; 
+    color: white; 
+}
+
+.buttons p:active {
+    background-color: #999; 
+}
+.autor__age3{
+    word-spacing: 2px;
+    font-size: 14px;
+    color: #e4dddd;
+}
+
+.search-header {
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .search-header__input {
+    font-family: inherit;
+    font-size: 16px;
+    background-color: #0a0a0a;
+    border: solid 0.5px #525252;
+    color: #646464;
+    padding: 0.7rem 1rem;
+    border-radius: 25px;
+    width: 98%;
+    height: auto;
+    transition: all ease-in-out 0.5s;
+    margin-right: -2rem;
+    opacity: 1;
+    text-align: center;
+  }
+  
+  .search-header__input:hover,
+  .search-header__input:focus {
+    box-shadow: 0 0 1em #00000013;
+  }
+  
+  .search-header__input:focus {
+    outline: none;
+    background-color: #0a0a0aad;
+  }
+  
+  .search-header__input::-webkit-input-placeholder {
+    font-weight: 100;
+    color: #3a3a3a;
+  }
+  
+  .search-header__input:focus + .search-header__button {
+    background-color: transparent;
+  }
+  
+  .search-header__button {
+    border: none;
+    background-color: transparent;
+    margin-top: 0.1em;
+  }
+  
+  .search-header__button:hover {
+    cursor: pointer;
+  }
+  
+  .search-header__icon {
+    height: 1.3em;
+    width: 1.3em;
+    fill: #3a3a3a;
+  }
+  .card[style="display: none;"],
+.track__card[style="display: none;"] {
+    display: none !important;
+}
+
+  
+@media screen and (max-width: 768px) {
+
+    .page {
+        grid-template-columns:1fr;
+        grid-template-areas: 
+        "section__1" "section__2" "section__3";
+        margin: 0;
+        padding: 0;
+    }
+    .buttons{
+        display: flex;
+        align-items: center;
+        height: 5vh;
+    }
+    .buttons {
+        font-size: 20px;
+    }
+    .section__1{
+        margin: 0;
+        padding: 0;
+        width: auto;
+        height: auto;
+    }
+    .section__1 .subtitle__section1{
+        height: 20vh;
+    }
+    .section__1 .cardsbox{
+        height: 50vh;
+        width: 99%;
+        margin: 0;
+        padding: 1em;
+    }
+    .track_recommendations_box{
+        height: 13vh;
+        font-size: 14px;
+    }
+    .search-header__input {
+        height: 5vh;
+    }
+    .section__3{
+        width: auto;
+        height: auto;
+        padding: 0;
+        margin: 0;
+    }
+    .tracks__container{
+        width: 100%;
+        height: 75vh;
+    }
+    .subtitle__section3{
+        height: 11vh;
+    }
+    .audio__player{
+        width: 100%;
+        height: 92vh;
+    }
+
+}

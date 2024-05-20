@@ -1,5 +1,4 @@
-export class myframe extends HTMLElement{
-
+export class Myframe extends HTMLElement{
     constructor(){
         super();
         this.attachShadow({mode: "open"});

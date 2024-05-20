@@ -17,12 +17,14 @@ main{
     height: 100vh;
     /* box-sizing: border-box;   */
 }
-container {
+#albumSection, .center, .right{
     height: auto;
     background-color: #408040;
     display: flex;
     /* border: 3px solid; */
     justify-content: center;
+    flex-direction: column;
+    overflow-y: auto;
 }
 .left,.right {
     display: grid;
@@ -30,7 +32,7 @@ container {
     background-color: #102040;
     padding: 2%;
 }
-container > my-frame{
+div > my-frame{
     /* border: 3px solid red; */
     background-color: #108040;
     padding: 3px;
@@ -86,6 +88,12 @@ container > my-frame{
     padding: 2%;
     display: flex;
     flex-wrap: wrap;
+    box-sizing: content-box;
+}
+.card > img{
+    width: 150px;
+    height: 150px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 .footer{
     border: 1px solid gray;
