@@ -13,8 +13,7 @@ export function detectView() {
         btnAlbumView.click();
     }
     else {
-        console.log("Desktopview");
-        console.log(sectionAlbums);
+
 
         sectionAlbums.style.display = "flex";
         sectionMedia.style.display = "block";

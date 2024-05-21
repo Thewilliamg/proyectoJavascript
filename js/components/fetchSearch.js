@@ -5,7 +5,7 @@ export const importationSearch = async() => {
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': '1095f8b652msh95f265095f02f92p1dd4c1jsncde0e9ba16cf',
+            // 'X-RapidAPI-Key': '1095f8b652msh95f265095f02f92p1dd4c1jsncde0e9ba16cf',
             'X-RapidAPI-Host': 'spotify23.p.rapidapi.com'
         }
     };

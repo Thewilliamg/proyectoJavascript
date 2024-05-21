@@ -1,23 +1,17 @@
-export function searchInAlbums(searched) {
-    const cards = document.querySelectorAll('.cardsbox .card');
-    cards.forEach(card => {
-        const name = card.querySelector('.albumName').textContent.toLowerCase();
-        if (name.includes(searched.toLowerCase())) {
-            card.style.display = 'flex';
-        } else {
-            card.style.display = 'none';
-        }
-    });
-}
+import { importTrackRecommendations } from "./fetchAlbum.js"
+import { RecommendedTrackCardCreator } from "./creates.js"
 
-export function searchInTracks(searchTerm) {
-    const tracks = document.querySelectorAll('.tracks__container .track__card');
-    tracks.forEach(track => {
-        const name = track.querySelector('.aname3').textContent.toLowerCase();
-        if (name.includes(searchTerm.toLowerCase())) {
-            track.style.display = 'flex';
-        } else {
-            track.style.display = 'none';
-        }
+export async function putTrackRecommendation() {
+    let trackData = await importTrackRecommendations();
+    const tracksRecommendation = document.querySelector(".track_recommended_list");
+    tracksRecommendation.innerHTML = "";
+    trackData.forEach(track => {
+        const albumImage = track.album.images[0].url;
+        let Date = track.album.release_date.split("-");
+        const dataRelease = Date[0];
+
+        const creatortrackCard = new RecommendedTrackCardCreator(track, albumImage, dataRelease);
+        const trackCard = creatortrackCard.createCard();
+        tracksRecommendation.appendChild(trackCard);
     });
 }

@@ -13,7 +13,7 @@ export class Myframe extends HTMLElement{
         const id = uri.split(":").pop();
         this.shadowRoot.innerHTML = /*html*/`
             <iframe class="spotify-iframe" width="100%" height="100%" src="https://open.spotify.com/embed/album/${id}" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-            `;  
+        `;  
     }
 
     static get observedAttributes(){
