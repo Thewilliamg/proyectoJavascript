@@ -115,13 +115,6 @@ export class AlbumCardCreator {
         }
     }
 
-    // createAlbumCards() {
-    //     this.albumData.forEach(album => {
-    //         const card = this.createCard(album);
-    //         this.fragment.appendChild(card);
-    //     });
-    //     return this.fragment;
-    // }
 }
 
 export class RecommendedTrackCardCreator {
@@ -173,7 +166,7 @@ export class RecommendedTrackCardCreator {
 
         return trackCard;
     }
-    // Método para convertir milisegundos a minutos y segundos
+    // convertir milisegundos a minutos y segundos la duración de la cancion
     msToMinutesSeconds(ms) {
         const minutes = Math.floor(ms / 60000);
         const seconds = ((ms % 60000) / 1000).toFixed(0);

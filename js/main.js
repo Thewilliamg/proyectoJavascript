@@ -1,12 +1,10 @@
-// import {TrackCardCreator,AlbumCardCreator} from "./components/creates.js"
+
 import { loadAlbums } from "./components/load.js"
-import { importationAlbum } from "./components/fetchAlbum.js";
 import { Myframe } from "./components/myframe.js"
-// import {importationSearch} from "../components/fetchSearch.js";
+// import { detectView } from "./components/views.js";
 import { putTrackRecommendation } from "./components/search.js"
 
 customElements.define("my-frame", Myframe)
-
 
 document.addEventListener('DOMContentLoaded', async () => {
     //Loading Load-function
@@ -48,62 +46,14 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
     });
     //views
-
-    const btnAlbumView = document.querySelector(".album__view");
-    const btnTrackView = document.querySelector(".track__view");
-    const btnMediaView = document.querySelector(".media__view");
-    const sectionAlbums = document.querySelector(".left");
-    const sectionMedia = document.querySelector(".center");
-    const sectionTrackList = document.querySelector(".right");
-
-    btnAlbumView.addEventListener("click", function () {
-        sectionAlbums.style.display = "flex";
-        sectionMedia.style.display = "none";
-        sectionTrackList.style.display = "none";
-    });
-
-    btnTrackView.addEventListener("click", function () {
-        sectionAlbums.style.display = "none";
-        sectionMedia.style.display = "none";
-        sectionTrackList.style.display = "flex";
-    });
-    btnMediaView.addEventListener("click", function () {
-        sectionAlbums.style.display = "none";
-        sectionMedia.style.display = "flex";
-        sectionTrackList.style.display = "none";
-    });
-
+    // detectView()
 
     //
-    if (window.innerWidth > 700) {
+    if (window.innerWidth > 600) {
         let firstAlbum = document.querySelector('.card');
         firstAlbum.click();
         // console.log(firstAlbum);
     } else { console.log(window.innerWidth) }
-    function detectView() {
 
-        const sectionAlbums = document.querySelector(".left");
-        const sectionMedia = document.querySelector(".center");
-        const sectionTrackList = document.querySelector(".right");
-       
-        if (window.innerWidth <= 900) {
-    
-            // console.log("Mobileview");
-            sectionAlbums.style.display = "flex";
-            sectionMedia.style.display = "none";
-            sectionTrackList.style.display = "none";
-            btnAlbumView.click();
-        }
-        else {
-    
-    
-            sectionAlbums.style.display = "flex";
-            sectionMedia.style.display = "block";
-            sectionTrackList.style.display = "flex";
-        }
-       
-    }
-    detectView()
-    //
 });
 

@@ -25,6 +25,8 @@ main{
     grid-template-rows: auto 320px 40px 150px;
     padding: 2%;
     height: 100%;
+    /* display: flex; */
+    flex-direction: column;
 }
 
 .center{
@@ -110,13 +112,12 @@ container > my-frame{
     text-align: center;
 }
 .card > img{
-    /* min-width: 80px; */
     width: 90px;
     height: 90px;
 }
 
 .track_recommended_list{
-    /* background-color: rgb(80, 80, 80); */
+
     overflow-y: auto;
     overflow-x: hidden;
     gap: 2%;
@@ -182,28 +183,44 @@ container > my-frame{
 .track_list > .cardOftracks{
     height: min-content;
 } 
+.buttons {
+    display: none; /* Hidden by default */
+    /* position: fixed; */
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #f1f1f1;
+    border-top: 1px solid #ccc;
+    padding: 10px 0;
+}
+navbar {
+    display: none; /* Hidden by default */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #f1f1f1;
+    border-top: 1px solid #ccc;
+    padding: 10px 0;
+}
 
- 
-@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
+    .container {
+        display: block;
+    }
 
-    main{
-        display: grid;
-        grid-template-rows: 1fr 1fr 1fr;
-        /* width: 100%;
-        height: 300vh;
-        overflow:auto; */
-    }
-    .left{
-        width: 100vw;
-        display: grid;
-        grid-template-rows: 60px 1fr 1fr auto; 
-    }
-    .center{
+    .left, .center, .right {
+        display: none;
         height: 100vh;
-        width: 100vw;
+        overflow-y: auto;
     }
-    .buttons{
-        display: flex;
-        justify-content: space-evenly;
+    .nav-bar {
+        display: flex; /* Show navigation bar */
+    }
+
+    .show {
+        display: block;
     }
 }
